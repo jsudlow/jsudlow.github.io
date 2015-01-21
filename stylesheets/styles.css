@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#2F2A2A;
   font-weight:300;
 }
 
@@ -98,7 +98,7 @@ img {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  
 }
 
 header ul {
